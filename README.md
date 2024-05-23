@@ -1,3 +1,11 @@
+Fork of https://github.com/TamtamHero/fw-fanctrl containing quality of life changes for my own personal system
+
+# Changes from Upstream:
+
+
+
+# Original Readme
+
 # fw-fanctrl
 
 This is a simple Python service for Linux that drives Framework Laptop's fan(s) speed according to a configurable speed/temp curve.
